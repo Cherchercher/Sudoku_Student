@@ -24,12 +24,8 @@ class BTSolver:
 
 ##lab 1
     def getValuesLCVOrder(self, v):
-        print("hi I am doing some work")
-        mini = sys.maxsize
-        for i in range(v.size()-1):
-            if (v.Values())[i] < mini:
-                mini = i
-        return mini
+        
+        return newlist
         
 ##lab 1
     def forwardChecking(self):
